@@ -5,7 +5,7 @@
 ### ✨ A futuristic personal portfolio blending AI, 3D graphics, and modern web design
 
 <p align="center">
-  <a href="https://ankan-ghosh-portfolio-653531689653.us-west1.run.app" target="_blank">
+  <a href="https://ankan-ghosh-portfolio-535261912619.us-west1.run.app" target="_blank">
     <strong>🌐 Live Demo</strong>
   </a>
 </p>
